@@ -15,3 +15,8 @@ https://rchursin.github.io/BackgroundGenerator/
 
 Enjoy background colour generator!
 
+Here's an example of how you can use the generated CSS gradient code in your CSS file:
+
+    body {
+        background: linear-gradient(to right, #8e2de2, #4a00e0);
+    }
