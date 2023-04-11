@@ -10,3 +10,13 @@ function setGradient() {
 
 color1.addEventListener("input", setGradient);
 color2.addEventListener("input", setGradient);
+
+// In addition, if addEventListener is not supported by the browser, the following code can be used:
+
+// if (color1) {
+//   color1.addEventListener("input", setGradient);
+// }
+//
+// if (color2) {
+//   color2.addEventListener("input", setGradient);
+// }
