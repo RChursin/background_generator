@@ -1,5 +1,6 @@
 # BackgroundGenerator
 A simple background generator for your website.
+https://rchursin.github.io/BackgroundGenerator/
 
 ## How to use
 1. Download the files
@@ -13,3 +14,4 @@ A simple background generator for your website.
 5. Copy the CSS code and paste it in your website
 
 Enjoy background colour generator!
+
