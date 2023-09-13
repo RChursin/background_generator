@@ -38,7 +38,3 @@ body {
 
 ### 4. Revel in Aesthetics:
 Enjoy the enriched visual appeal of your website with the **BackgroundGenerator**!
-
----
-
-The content is now structured with clear headings and a logical flow, making it easier for readers to understand and follow.
